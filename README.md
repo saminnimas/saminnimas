@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Djano</b>
+- <b>Django</b>
   - [IoT Sensor Data Ingestion Monitoring API](https://github.com/saminnimas/IoT-Sensor-Data-Ingestion-Monitoring-API)
   - [PackNGo](https://github.com/saminnimas/packngo)
   - [Blog App](https://github.com/saminnimas/django-blog-app)
