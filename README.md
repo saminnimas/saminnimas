@@ -19,6 +19,7 @@
   - [Toy Agent](https://github.com/saminnimas/toy-agent) (An AI Coding Agent)
   - [Fine-Tuning LLaMA-3.1-8B Instruct](https://github.com/saminnimas/Samin_Test2-Fine-Tuning-LLaMA-3.1-8B-Instruct)
   - [RAG Projects](https://github.com/saminnimas/RAG_projects)
+  - [NLP](https://github.com/saminnimas/nlp_proj.git)
 
 <h2>🛠️ Domain</h2>
 
